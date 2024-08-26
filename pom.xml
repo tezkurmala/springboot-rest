@@ -75,7 +75,7 @@
 		<dependency>
 			<groupId>io.springfox</groupId>
 			<artifactId>springfox-swagger-ui</artifactId>
-			<version>2.6.1</version>
+			<version>2.10.0</version>
 		</dependency>
 		<!-- http://localhost:8080/h2-console
 		Launch screen has to have URI as jdbc:h2:mem:testdb -->
